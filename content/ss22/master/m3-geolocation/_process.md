@@ -16,12 +16,19 @@ This changed the use case of the app from actively following a route to letting 
 When brainstorming and envisioning how we would like to use the app ourselves we decided to include differnet topics. This gives users the chance to chose which of them are relevant to them individually and personalize their experience on the one hand and requires a content management system, that let's different parties provide data and expand the possibilities dynamically on the other hand.
 
 
-
-
 {{</section>}}
 
 {{<section title="Prototyping">}}
 
+To decide on what features we would like the applications to have, we used Miro to document our ideas and decisions.
+{{<image src="development_mvp.png" alt="documented features in miro" caption="Features">}}
+
+Then we built wireframes for the app and the editor's user interfaces. By doing this, we were able to decide on a general layout and structure for the interfaces without getting too involved with the details.
+{{<image src="wireframe-editor.png" alt="wireframes of the editor" caption="Wireframes of the editor">}}
+{{<image src="wireframe-app.png" alt="wireframes of the app" caption="Wireframes of the app">}}
+
+While starting the development process and implementing the main features, we also worked on a visual design for the app in AdobeXD. This is where we decided on our color scheme which was later incorporate into the editor as well.
+{{<image src="prototype-design.png" alt="prototype design in adobexd" caption="App Design">}}
 
 {{</section>}}
 
