@@ -27,8 +27,8 @@ The WH2 team consists of 4 students with experience in web and app development, 
 {{</section >}}
 
 {{<gallery>}}
-{{<team-member image="hacker.png" name="Paula">}}
-{{<team-member image="hacker.png" name="Luis">}}
-{{<team-member image="hacker.png" name="Emily">}}
-{{<team-member image="hacker.png" name="Mahja">}}
+{{<team-member image="paula.jpeg" name="Paula">}}
+{{<team-member image="luis.jpg" name="Luis">}}
+{{<team-member image="emily.jpg" name="Emily">}}
+{{<team-member image="mahja.jpeg" name="Mahja">}}
 {{</gallery>}}
